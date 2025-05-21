@@ -9,44 +9,57 @@
 
 ---
 
-### 🚀 About Me
+### 🌟 About Me
 
-- 🧠 Preparing for JEE Mains & Advanced  
-- 🎥 I love creating **cinematic edits & motivational reels**
-- 💻 Learning **Git, AI Tools, Video Editing & Open Source**
-- 🌍 Dreaming to get into **IIT Delhi**
-- ✨ Fan of **Mansory Cars**, **Premiere Pro**, and **Python Automation**
+- 🧠 JEE Mains & Advanced Aspirant
+- 💻 Passionate about Tech, Automation, and Visual Storytelling
+- 🎬 Crafting cinematic edits + building useful software projects
+- 🧩 Always learning — from Python to Premiere Pro
+- 🎯 Goal: IIT Delhi | Creating impact with code & creativity
 
 ---
 
-### 📈 My GitHub Stats
+### 🚀 Featured Code Projects
+
+| Project | Description |
+|--------|-------------|
+| 🛠️ [Auto File Organizer](#) | A Python script to auto-sort messy folders |
+| 📊 [Live Weather Dashboard](#) | Web app using APIs to show real-time weather |
+| 🎥 [Video Subtitle Generator](#) | Auto-generate subtitles using AI from video/audio |
+| 🤖 [Discord Study Bot](#) | A productivity bot for students with timers & music |
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="330" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.instagram.com/yourprofile/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://github.com/yourgithubusername"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/harshayu2416/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:bansalnaitik417@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/yourgithubusername">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🎬 Featured Projects
+### 💬 Quote I Live By
 
-- 🎞️ [My Cinematic Edits](#)
-- 📹 [JEE + Motivation Video Series](#)
-- 🧪 [Sora-based AI Video Generator](#) *(coming soon)*
-
----
+> *"Hard work beats talent when talent doesn't work hard."*
 
 <p align="center">
-  <b>“Hard work beats talent when talent doesn’t work hard.”</b>  
-  <br/>🔥 Let’s rise together! #IITDreams #CarLover #VideoEditorLover
+  💥 Let’s rise together! <br>
+  🔗 #IITDreams &nbsp; 🔧 #CodeWithPassion &nbsp; 🎬 #VideoEditorLover &nbsp; 🚀 #MakingItHappen
 </p>
