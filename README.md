@@ -1,9 +1,7 @@
 <!-- Banner GIF -->
 <p align="center">
- <p align="center">
-  <img src="[https://github.com/HarshIn1610/HarshIn1610/blob/feec9b7db06fd47c2a53725851d3b2bbbf839578/dev%20vid.mp4?raw=true]" alt="Hello World Banner" width="800"/>
+  <img src="https://github.com/HarshIn1610/HarshIn1610/blob/main/dev-banner.gif?raw=true" alt="Banner" width="800"/>
 </p>
-
 
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">🎓 B.Tech CSE (AI) @ LPU | 🚀 GATE Aspirant | 💻 Coding Enthusiast | 🎬 Video Editor</h3>
