@@ -2,13 +2,7 @@
 <p align="center">
   <img src="https://github.com/HarshIn1610/HarshIn1610/blob/093f72b9a7a4f4c654572ba29cdbf95be3835d55/dev%20vid.gif?raw=true" alt="Banner Animation" width="800"/>
 </p>
-
-<p align="center">
-  <a href="https://github.com/HarshIn1610/HarshIn1610/raw/main/harshit_resume.pdf" download>
-    <img src="https://img.shields.io/badge/Download_Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
-  </a>
-</p>
-<h1 align="center">Hi 👋, I'm Harsh</h1>
+<h1 align="center">Hi 👋, I'm Harshit Bansal</h1>
 <h3 align="center">🎓 B.Tech CSE (AI) @ LPU | 🚀 GATE Aspirant | 💻 Coding Enthusiast | 🎬 Video Editor</h3>
 
 ---
