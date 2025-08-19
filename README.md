@@ -10,7 +10,8 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=550&lines=Focused+%26+Driven+Learner;Passionate+about+AI+%26+Coding;Building+Projects+%26+Skills" alt="Typing SVG" />
+ <p align="center">
+  <img src="https://github.com/HarshIn1610/HarshIn1610/blob/b12518127046c38cda79852e8bc68707db458d9b/Developer%20mode%20on.jpg?raw=true" alt="Hello World Banner" width="800"/>
 </p>
 
 ---
