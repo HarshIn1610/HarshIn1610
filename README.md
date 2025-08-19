@@ -57,7 +57,7 @@
 ### 📄 Resume  
 
 <p align="center">
-  <a href="https://github.com/HarshIn1610/HarshIn1610/raw/main/harshibar_s_resume.pdf" download>
+  <a href="[https://github.com/HarshIn1610/HarshIn1610/raw/main/harshit_bansal resume.pdf] download>
     <img src="https://img.shields.io/badge/⬇️_Download_Resume-2E8B57?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=2E8B57" alt="Download Resume"/>
   </a>
 </p>
