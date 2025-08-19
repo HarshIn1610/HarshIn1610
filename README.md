@@ -1,7 +1,7 @@
 <!-- Banner GIF -->
 <p align="center">
  <p align="center">
-  <img src="[https://github.com/HarshIn1610/HarshIn1610/blob/feec9b7db06fd47c2a53725851d3b2bbbf839578/dev%20vid.mp4]" alt="Hello World Banner" width="800"/>
+  <img src="[https://github.com/HarshIn1610/HarshIn1610/blob/feec9b7db06fd47c2a53725851d3b2bbbf839578/dev%20vid.mp4?raw=true]" alt="Hello World Banner" width="800"/>
 </p>
 
 
