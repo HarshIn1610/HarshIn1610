@@ -17,9 +17,9 @@
 ### 🌟 About Me  
 
 - 🎓 1st Year CSE Student @ Lovely Professional University (AI Focus)  
-- 💻 Passionate about **Python, AI, and Software Development**  
-- 🎬 Skilled in **Video Editing & VFX** (Premiere Pro, After Effects)  
-- 🎯 Preparing for **GATE | Research in AI | Open Source (GSoC)**  
+- 💻 Passionate about **Python, AI, Cybersecurity, and Software Development**  
+- 🎬 Skilled in **Video Editing & VFX** (Da Vinci & Clipchamp)  
+- 🎯 Preparing for **GATE | Research in AI + Cybersecurity | Open Source (GSoC)**  
 - 🧩 Always learning & experimenting with tech  
 
 ---
@@ -32,7 +32,7 @@
 | 🛠️ **Python Mini Projects** | Calculator, File Organizer, Tic-Tac-Toe – learning Python basics with hands-on code |
 | 🏗️ **AutoCAD Designs** | 2D/3D models created as part of Engineering Drawing coursework |
 | 🎥 **Video Editing Portfolio** | Edited 50+ videos with cinematic effects & professional transitions |
-
+| </> **Coders Flow** | An AI powered community in app specially designed  for developers and Researchers |
 ---
 
 ### 🛠 Tech Stack  
