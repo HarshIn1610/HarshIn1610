@@ -3,7 +3,7 @@
   <img src="https://github.com/HarshIn1610/HarshIn1610/blob/093f72b9a7a4f4c654572ba29cdbf95be3835d55/dev%20vid.gif?raw=true" alt="Banner Animation" width="800"/>
 </p>
 <h1 align="center">Hi 👋, I'm Harshit Bansal</h1>
-<h3 align="center">🎓 B.Tech CSE (AI) @ LPU | 🚀 GATE Aspirant | 💻 Coding Enthusiast | 🎬 Video Editor</h3>
+<h3 align="center">🎓 B.Tech CSE (AI & ML) @SRMIST KTR | 🚀 GATE Aspirant | 💻 AI Engineer</h3>
 
 ---
 
