@@ -3,7 +3,7 @@
   <img src="https://github.com/HarshIn1610/HarshIn1610/blob/093f72b9a7a4f4c654572ba29cdbf95be3835d55/dev%20vid.gif?raw=true" alt="Banner Animation" width="800"/>
 </p>
 <h1 align="center">Hi 👋, I'm Harshit Bansal</h1>
-<h3 align="center">🎓 B.Tech CSE (AI & ML) @SRMIST KTR | 🚀 GATE Aspirant | 💻 AI Engineer</h3>
+<h3 align="center">🎓 B.Tech CSE (AI & ML) @SRMIST KTR | 🚀 GATE Aspirant | 💻 AI Engineer </h3>
 
 ---
 
@@ -16,7 +16,7 @@
 
 ### 🌟 About Me  
 
-- 🎓 1st Year CSE Student @ Lovely Professional University (AI Focus)  
+- 🎓 1st Year CSE Student @ SRMIST KTR  
 - 💻 Passionate about **Python, AI, Cybersecurity, and Software Development**  
 - 🎬 Skilled in **Video Editing & VFX** (Da Vinci & Clipchamp)  
 - 🎯 Preparing for **GATE | Research in AI + Cybersecurity | Open Source (GSoC)**  
